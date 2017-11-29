@@ -25,7 +25,7 @@ Step 2. Add the dependency
 
 ```
 dependencies {
-	       compile 'com.github.funnyzhaov:AndroidFeelView:1.0.2'
+	       compile 'com.github.funnyzhaov:AndroidFeelView:v1.0.0'
 	}
 ```
 
