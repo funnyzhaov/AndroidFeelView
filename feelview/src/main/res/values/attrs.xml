@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RotatingSkip">
+        <attr name="bgColor" format="color"/>
+        <attr name="angleOffset" format="integer"/>
+    </declare-styleable>
+</resources>
