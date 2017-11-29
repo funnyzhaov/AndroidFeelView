@@ -2,8 +2,8 @@
 一个仿掘金广告页‘跳过’按钮的动画
 
 
-![img](screenshots/GIF.gif)
-![img](screenshots/GIF2.gif)
+![img](screenshots/1.gif)
+![img](screenshots/2.gif)
 
 
 - 添加依赖：
