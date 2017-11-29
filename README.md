@@ -23,6 +23,8 @@ allprojects {
 
 Step 2. Add the dependency
 
+**注：若AS本地提示最新版为1.0.2，可以忽视，因为那是之前手误创建的版本，以这里的版本为准**
+
 ```
 dependencies {
 	       compile 'com.github.funnyzhaov:AndroidFeelView:v1.0.0'
